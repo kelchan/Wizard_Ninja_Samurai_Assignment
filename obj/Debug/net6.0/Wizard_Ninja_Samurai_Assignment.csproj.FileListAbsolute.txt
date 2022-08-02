@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\bin\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\bin\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\bin\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\bin\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\bin\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\refint\Wizard_Ninja_Samurai_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\Wizard_Ninja_Samurai_Assignment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Wizard_Ninja_Samurai_Assignment\obj\Debug\net6.0\ref\Wizard_Ninja_Samurai_Assignment.dll
