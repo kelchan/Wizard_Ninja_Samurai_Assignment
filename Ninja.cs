@@ -26,7 +26,9 @@ public class Ninja : Human
 
     public string Steal( Human target )
     {
-        return $"{ Name } stole 5 health from { target.Name }, { Name }'s health increased by 5";
+        target.Health -= 5;
+        Health += 5;
+        return $"{ Name } stole 5 health from { target.Name }, { Name }'s health increased by 5, { target.Name } remaining health: { target.Health }";
     }
 
 }
